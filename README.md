@@ -19,3 +19,6 @@
 
 ## Step 6: Verifiying if stream remains open
 ![alt text](assets/image-5.png)
+
+## Step 7: Live monitoring of Streaming
+![alt text](assets/image-6.png)
